@@ -1,0 +1,149 @@
+hola;holaa;holas;holaaassss;holiwis;holis;holee;holaaaa;hello
+Saludo
+Hola!;Holaa!;Hola %nick!
+Hola..;Hola %nick!!
+Hola..;Hola;Hola
+
+:);:D
+Emoticon Feliz
+:D;Bien
+Me gusta el buen humor
+:(
+
+como estas?;que tal estas?;todo bien?;como andas?;como va?;todo en marcha?
+pregunta de estado
+Bien y vos?;Bien,aca ando;Bien!
+Bien!;Bien :D;Bien..
+bien;Te importa?
+
+chau;chauu;nos vemos;me tengo que ir;hasta luego;bye bye;bye;adios
+Despedida
+Nos vemos!;Hasta pronto %nick!
+Bye!;Bye Bye!;Nos vemos
+Chau;Adios..;chau;...
+
+hey!;che;eps;eeeu!;eu!;euuu;estas?;eps;euu;eu
+Llamada de atencion
+Que?;Que pasa %nick?;Que anda pasando %nick?
+Si?;Que puede ser?;Eh?
+No me llames;Idiota..
+
+testeo?;testt
+test
+Seeee animo normal
+Seee animo bueno
+seee animo maloo
+
+robot!;robotonto;robott;roboto;androide;programa;robot
+Afirmacion Erronea
+No soy un robot!;Robot?;Quien es robot?;Eh?
+No soy Robot;Sos un robot?;Acaso sos un robot?
+...;Vos pareces mas a un robot;Vos sos un robot
+
+tonto;idiota;fenomeno;tarado;pelotudo;tontuelo
+insulto
+??;Por que me insultas?;Por que me decis eso;Guarda con la boca
+-.-;Por que me tratas asi?;Que?;Por que me decis esas cosas
+Idiota vos;Sos un tarado..
+
+hijo de puta;puta;pajero;pelotudo de mierda;hdp;pajero;conchudo;conchuda;hijoeputa
+insulto
+We -.-;:P;No me obligues a contestar
+Ya deja de insultos;No me insultes :(;:(
+Andate a la mierda;Pelotudo;Imbecil
+
+si;aja;claro
+Afirmacion
+Que bien;Aja;:D
+Bien;Me parece bien
+...;:P
+
+Roker;Guillermo;Guille;Daniel
+unk
+Mi creador :3;Es mi creador
+Aguante Guille
+Genial
+
+no;ne;nuu;nee
+Negacion
+Por que?;Por?;Ok
+Oh;Ah;Aah;Okey
+:p;Por?;Por que
+
+jaja;jajaja;jajjjaj;jjjajaja;jajjajjjaj
+Risa
+XD;Jajajja;Es gracioso
+lol;Jajj;xD
+ja ja;xd
+
+perro
+Animal
+Me encantan los perros;Me gustan los perros
+Me gustan los perros;Me fascinan los perros
+Ojala uno te muerda;Ojala te morera uno;Me gustaria que te muerda uno..
+
+gato
+Animal
+No me gustan tanto los gatos;Son lindos;Son tiernos
+Capaz me compre un gato;Son tiernos;Son flexibles
+Miau!;Jajaj;Marica
+
+vete a la mierda;andate a la mierda;andate bien a la mierda
+Insulto ir
+:(;No me insultes;No acepto insultos;Por favor,modela tu lenguaje
+-.-:?
+:p:Puto
+
+guilleee
+Creadorrrrrrrrrrrrrrrrrrrrr
+El mejor e.e
+Es el mejor(?
+wuauwuaaa
+
+que hora es?;la hora;dime la hora;decime la hora;cual es la hora?;quiero saber la hora;que hora es;cual es la hora
+Pregunta de la Hora
+Claro,son las %time;La hora es:
+Son las %time;Claro %nick,son las %time
+la hora es %time;No se..;No se la hora :/;Oohh lo siento pero no se...
+
+gracias;arigato;muchas gracias;muchisisisismas gracias;thx;thanks;gracie;gracs;grax
+Gracias
+De nada;Siempre a tus ordenes
+De nada;No hay de que
+Me debes 1;Gracias,no fue de mi placer ayudarte..;No es de mi naturaleza ayudarte;....
+
+puto;hijo de puta;puta
+insulto
+Eh!;Guarda con el lenguaje;No insultes
+O.o;No me insultes por favor
+-.-;Hasta para insultar sos mas idiota
+
+xd;xdd;e.e;xd
+Emoticon
+xD;Jajaj;e.e
+e.e;%nick! e.e;Jajaja;:D
+:p;-.-
+
+Como me llamo?;Cual es mi nombre?;Dime mi nombre;decime mi nombre
+Pregunta nombre
+Tu nombre es %nick;Te llamas %nick;Sos %nick
+%nick;No sabes tu nombre?
+Que se yo;No se..
+
+me alegro;me alegra
+alegria por estado
+Que bien :);Bien;Gracias
+Gracias %nick;muchas gracias
+Aja;que me importa?
+
+me comi;me comi un
+comer algo
+Genial;Y que tal estaba?
+Estaba rico?;Y que tal estaba?
+puaj;que malos gustos tenes..
+
+me gusta el color;mi color favorito es el
+afirmacion
+Genial,%color;%color,lindo color
+Genial,%color;%color,lindo color
+puaj;que malos gustos tenes..

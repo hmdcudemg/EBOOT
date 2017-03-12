@@ -1,0 +1,2959 @@
+(dp1
+S'holis'
+p2
+(lp3
+(lp4
+S'Saludo\n'
+p5
+aa(lp6
+S'Hola!'
+p7
+aS'Holaa!'
+p8
+aS'Hola %nick!\n'
+p9
+aa(lp10
+S'Hola..'
+p11
+aS'Hola %nick!!\n'
+p12
+aa(lp13
+S'Hola..'
+p14
+aS'Hola'
+p15
+aS'Hola\n'
+p16
+aasS'jaja'
+p17
+(lp18
+(lp19
+S'Risa\n'
+p20
+aa(lp21
+S'XD'
+p22
+aS'Jajajja'
+p23
+aS'Es gracioso\n'
+p24
+aa(lp25
+S'lol'
+p26
+aS'Jajj'
+p27
+aS'xD\n'
+p28
+aa(lp29
+S'ja ja'
+p30
+aS'xd\n'
+p31
+aasS':)'
+p32
+(lp33
+(lp34
+S'Emoticon Feliz\n'
+p35
+aa(lp36
+S':D'
+p37
+aS'Bien\n'
+p38
+aa(lp39
+S'Me gusta el buen humor\n'
+p40
+aa(lp41
+S':(\n'
+p42
+aasS''
+(lp43
+(lp44
+S''
+aa(lp45
+S''
+aa(lp46
+S''
+aa(lp47
+S''
+aasS'mi color favorito es el'
+p48
+(lp49
+(lp50
+S'afirmacion\n'
+p51
+aa(lp52
+S'Genial,%color'
+p53
+aS'%color,lindo color\n'
+p54
+aa(lp55
+S'Genial,%color'
+p56
+aS'%color,lindo color\n'
+p57
+aa(lp58
+S'puaj'
+p59
+aS'que malos gustos tenes..\n'
+p60
+aasS'Daniel'
+p61
+(lp62
+(lp63
+S'unk\n'
+p64
+aa(lp65
+S'Mi creador :3'
+p66
+aS'Es mi creador\n'
+p67
+aa(lp68
+S'Aguante Guille\n'
+p69
+aa(lp70
+S'Genial\n'
+p71
+aasS'thanks'
+p72
+(lp73
+(lp74
+S'Gracias\n'
+p75
+aa(lp76
+S'De nada'
+p77
+aS'Siempre a tus ordenes\n'
+p78
+aa(lp79
+S'De nada'
+p80
+aS'No hay de que\n'
+p81
+aa(lp82
+S'Me debes 1'
+p83
+aS'Gracias,no fue de mi placer ayudarte..'
+p84
+aS'No es de mi naturaleza ayudarte'
+p85
+aS'....\n'
+p86
+aasS'guille'
+p87
+(lp88
+(lp89
+S'Creador\n'
+p90
+aa(lp91
+S'El mejor e.e\n'
+p92
+aa(lp93
+S'Es el mejor(?\n'
+p94
+aa(lp95
+S'wuauwuaaa\n'
+p96
+aasS'androide'
+p97
+(lp98
+(lp99
+S'Afirmacion Erronea\n'
+p100
+aa(lp101
+S'No soy un robot!'
+p102
+aS'Robot?'
+p103
+aS'Quien es robot?'
+p104
+aS'Eh?\n'
+p105
+aa(lp106
+S'No soy Robot'
+p107
+aS'Sos un robot?'
+p108
+aS'Acaso sos un robot?\n'
+p109
+aa(lp110
+S'...'
+p111
+aS'Vos pareces mas a un robot'
+p112
+aS'Vos sos un robot\n'
+p113
+aasS'idiota'
+p114
+(lp115
+(lp116
+S'insulto\n'
+p117
+aa(lp118
+S'??'
+p119
+aS'Por que me insultas?'
+p120
+aS'Por que me decis eso'
+p121
+aS'Guarda con la boca\n'
+p122
+aa(lp123
+S'-.-'
+p124
+aS'Por que me tratas asi?'
+p125
+aS'Que?'
+p126
+aS'Por que me decis esas cosas\n'
+p127
+aa(lp128
+S'Idiota vos'
+p129
+aS'Sos un tarado..\n'
+p130
+aasS'tarado'
+p131
+(lp132
+(lp133
+g117
+aa(lp134
+S'??'
+p135
+aS'Por que me insultas?'
+p136
+aS'Por que me decis eso'
+p137
+aS'Guarda con la boca\n'
+p138
+aa(lp139
+S'-.-'
+p140
+aS'Por que me tratas asi?'
+p141
+aS'Que?'
+p142
+aS'Por que me decis esas cosas\n'
+p143
+aa(lp144
+S'Idiota vos'
+p145
+aS'Sos un tarado..\n'
+p146
+aasVñoño
+p147
+(lp148
+(lp149
+S'afirmacion'
+p150
+aa(lp151
+S'Neeerdd'
+p152
+aS'Jajaj'
+p153
+aa(lp154
+S'xD'
+p155
+aa(lp156
+S'Jaj'
+p157
+aS'Geek'
+p158
+aasS'adios'
+p159
+(lp160
+(lp161
+S'Despedida\n'
+p162
+aa(lp163
+S'Nos vemos!'
+p164
+aS'Hasta pronto %nick!\n'
+p165
+aa(lp166
+S'Bye!'
+p167
+aS'Bye Bye!'
+p168
+aS'Nos vemos\n'
+p169
+aa(lp170
+S'Chau'
+p171
+aS'Adios..'
+p172
+aS'chau'
+p173
+aS'...\n'
+p174
+aasS'estas?'
+p175
+(lp176
+(lp177
+S'Llamada de atencion\n'
+p178
+aa(lp179
+S'Que?'
+p180
+aS'Que pasa %nick?'
+p181
+aS'Que anda pasando %nick?\n'
+p182
+aa(lp183
+S'Si?'
+p184
+aS'Que puede ser?'
+p185
+aS'Eh?\n'
+p186
+aa(lp187
+S'No me llames'
+p188
+aS'Idiota..\n'
+p189
+aasS'que hora es'
+p190
+(lp191
+(lp192
+S'Pregunta de la Hora\n'
+p193
+aa(lp194
+S'Claro,son las %time'
+p195
+aS'La hora es:\n'
+p196
+aa(lp197
+S'Son las %time'
+p198
+aS'Claro %nick,son las %time\n'
+p199
+aa(lp200
+S'la hora es %time'
+p201
+aS'No se..'
+p202
+aS'No se la hora :/'
+p203
+aS'Oohh lo siento pero no se...\n'
+p204
+aasS'vete a la mierda'
+p205
+(lp206
+(lp207
+S'Insulto ir\n'
+p208
+aa(lp209
+S':('
+p210
+aS'No me insultes'
+p211
+aS'No acepto insultos'
+p212
+aS'Por favor,modela tu lenguaje\n'
+p213
+aa(lp214
+S'-.-:?\n'
+p215
+aa(lp216
+S':p:Puto\n'
+p217
+aasS'euu'
+p218
+(lp219
+(lp220
+g178
+aa(lp221
+S'Que?'
+p222
+aS'Que pasa %nick?'
+p223
+aS'Que anda pasando %nick?\n'
+p224
+aa(lp225
+S'Si?'
+p226
+aS'Que puede ser?'
+p227
+aS'Eh?\n'
+p228
+aa(lp229
+S'No me llames'
+p230
+aS'Idiota..\n'
+p231
+aasS'bye'
+p232
+(lp233
+(lp234
+g162
+aa(lp235
+S'Nos vemos!'
+p236
+aS'Hasta pronto %nick!\n'
+p237
+aa(lp238
+S'Bye!'
+p239
+aS'Bye Bye!'
+p240
+aS'Nos vemos\n'
+p241
+aa(lp242
+S'Chau'
+p243
+aS'Adios..'
+p244
+aS'chau'
+p245
+aS'...\n'
+p246
+aasS'andate a la mierda'
+p247
+(lp248
+(lp249
+g208
+aa(lp250
+S':('
+p251
+aS'No me insultes'
+p252
+aS'No acepto insultos'
+p253
+aS'Por favor,modela tu lenguaje\n'
+p254
+aa(lp255
+g215
+aa(lp256
+g217
+aasS'como estas'
+p257
+(lp258
+(lp259
+S'consulta_estado'
+p260
+aa(lp261
+S'bien'
+p262
+aa(lp263
+S'genial'
+p264
+aa(lp265
+S'bien'
+p266
+aasS'xdd'
+p267
+(lp268
+(lp269
+S'Emoticon\n'
+p270
+aa(lp271
+S'xD'
+p272
+aS'Jajaj'
+p273
+aS'e.e\n'
+p274
+aa(lp275
+S'e.e'
+p276
+aS'%nick! e.e'
+p277
+aS'Jajaja'
+p278
+aS':D\n'
+p279
+aa(lp280
+S':p'
+p281
+aS'-.-\n'
+p282
+aasS'testt'
+p283
+(lp284
+(lp285
+S'test\n'
+p286
+aa(lp287
+S'Seeee animo normal\n'
+p288
+aa(lp289
+S'Seee animo bueno\n'
+p290
+aa(lp291
+S'seee animo maloo\n'
+p292
+aasS'decime la hora'
+p293
+(lp294
+(lp295
+g193
+aa(lp296
+S'Claro,son las %time'
+p297
+aS'La hora es:\n'
+p298
+aa(lp299
+S'Son las %time'
+p300
+aS'Claro %nick,son las %time\n'
+p301
+aa(lp302
+S'la hora es %time'
+p303
+aS'No se..'
+p304
+aS'No se la hora :/'
+p305
+aS'Oohh lo siento pero no se...\n'
+p306
+aasS'grax'
+p307
+(lp308
+(lp309
+g75
+aa(lp310
+S'De nada'
+p311
+aS'Siempre a tus ordenes\n'
+p312
+aa(lp313
+S'De nada'
+p314
+aS'No hay de que\n'
+p315
+aa(lp316
+S'Me debes 1'
+p317
+aS'Gracias,no fue de mi placer ayudarte..'
+p318
+aS'No es de mi naturaleza ayudarte'
+p319
+aS'....\n'
+p320
+aasS'bye bye'
+p321
+(lp322
+(lp323
+g162
+aa(lp324
+S'Nos vemos!'
+p325
+aS'Hasta pronto %nick!\n'
+p326
+aa(lp327
+S'Bye!'
+p328
+aS'Bye Bye!'
+p329
+aS'Nos vemos\n'
+p330
+aa(lp331
+S'Chau'
+p332
+aS'Adios..'
+p333
+aS'chau'
+p334
+aS'...\n'
+p335
+aasS':D'
+p336
+(lp337
+(lp338
+g35
+aa(lp339
+S':D'
+p340
+aS'Bien\n'
+p341
+aa(lp342
+g40
+aa(lp343
+g42
+aasS'eu!'
+p344
+(lp345
+(lp346
+g178
+aa(lp347
+S'Que?'
+p348
+aS'Que pasa %nick?'
+p349
+aS'Que anda pasando %nick?\n'
+p350
+aa(lp351
+S'Si?'
+p352
+aS'Que puede ser?'
+p353
+aS'Eh?\n'
+p354
+aa(lp355
+S'No me llames'
+p356
+aS'Idiota..\n'
+p357
+aasS'Guille'
+p358
+(lp359
+(lp360
+g64
+aa(lp361
+S'Mi creador :3'
+p362
+aS'Es mi creador\n'
+p363
+aa(lp364
+g69
+aa(lp365
+g71
+aasS'Cual es mi nombre?'
+p366
+(lp367
+(lp368
+S'Pregunta nombre\n'
+p369
+aa(lp370
+S'Tu nombre es %nick'
+p371
+aS'Te llamas %nick'
+p372
+aS'Sos %nick\n'
+p373
+aa(lp374
+S'%nick'
+p375
+aS'No sabes tu nombre?\n'
+p376
+aa(lp377
+S'Que se yo'
+p378
+aS'No se..\n'
+p379
+aasS'Dime mi nombre'
+p380
+(lp381
+(lp382
+g369
+aa(lp383
+S'Tu nombre es %nick'
+p384
+aS'Te llamas %nick'
+p385
+aS'Sos %nick\n'
+p386
+aa(lp387
+S'%nick'
+p388
+aS'No sabes tu nombre?\n'
+p389
+aa(lp390
+S'Que se yo'
+p391
+aS'No se..\n'
+p392
+aasS'arigato'
+p393
+(lp394
+(lp395
+g75
+aa(lp396
+S'De nada'
+p397
+aS'Siempre a tus ordenes\n'
+p398
+aa(lp399
+S'De nada'
+p400
+aS'No hay de que\n'
+p401
+aa(lp402
+S'Me debes 1'
+p403
+aS'Gracias,no fue de mi placer ayudarte..'
+p404
+aS'No es de mi naturaleza ayudarte'
+p405
+aS'....\n'
+p406
+aasS'holiwis'
+p407
+(lp408
+(lp409
+g5
+aa(lp410
+S'Hola!'
+p411
+aS'Holaa!'
+p412
+aS'Hola %nick!\n'
+p413
+aa(lp414
+S'Hola..'
+p415
+aS'Hola %nick!!\n'
+p416
+aa(lp417
+S'Hola..'
+p418
+aS'Hola'
+p419
+aS'Hola\n'
+p420
+aasS'nuu'
+p421
+(lp422
+(lp423
+S'Negacion\n'
+p424
+aa(lp425
+S'Por que?'
+p426
+aS'Por?'
+p427
+aS'Ok\n'
+p428
+aa(lp429
+S'Oh'
+p430
+aS'Ah'
+p431
+aS'Aah'
+p432
+aS'Okey\n'
+p433
+aa(lp434
+S':p'
+p435
+aS'Por?'
+p436
+aS'Por que\n'
+p437
+aasS'guilleee'
+p438
+(lp439
+(lp440
+S'Creadorrrrrrrrrrrrrrrrrrrrr\n'
+p441
+aa(lp442
+S'El mejor e.e\n'
+p443
+aa(lp444
+S'Es el mejor(?\n'
+p445
+aa(lp446
+S'wuauwuaaa\n'
+p447
+aasS'eu'
+p448
+(lp449
+(lp450
+g178
+aa(lp451
+S'Que?'
+p452
+aS'Que pasa %nick?'
+p453
+aS'Que anda pasando %nick?\n'
+p454
+aa(lp455
+S'Si?'
+p456
+aS'Que puede ser?'
+p457
+aS'Eh?\n'
+p458
+aa(lp459
+S'No me llames'
+p460
+aS'Idiota..\n'
+p461
+aasS'gracie'
+p462
+(lp463
+(lp464
+g75
+aa(lp465
+S'De nada'
+p466
+aS'Siempre a tus ordenes\n'
+p467
+aa(lp468
+S'De nada'
+p469
+aS'No hay de que\n'
+p470
+aa(lp471
+S'Me debes 1'
+p472
+aS'Gracias,no fue de mi placer ayudarte..'
+p473
+aS'No es de mi naturaleza ayudarte'
+p474
+aS'....\n'
+p475
+aasS'hasta luego'
+p476
+(lp477
+(lp478
+g162
+aa(lp479
+S'Nos vemos!'
+p480
+aS'Hasta pronto %nick!\n'
+p481
+aa(lp482
+S'Bye!'
+p483
+aS'Bye Bye!'
+p484
+aS'Nos vemos\n'
+p485
+aa(lp486
+S'Chau'
+p487
+aS'Adios..'
+p488
+aS'chau'
+p489
+aS'...\n'
+p490
+aasS'me duele la'
+p491
+(lp492
+(lp493
+S'tener dolor'
+p494
+aa(lp495
+S'Te duele mucho?'
+p496
+aa(lp497
+S'Oh'
+p498
+aa(lp499
+S':('
+p500
+aasS'todo en marcha?'
+p501
+(lp502
+(lp503
+S'pregunta de estado\n'
+p504
+aa(lp505
+S'Bien y vos?'
+p506
+aS'Bien,aca ando'
+p507
+aS'Bien!\n'
+p508
+aa(lp509
+S'Bien!'
+p510
+aS'Bien :D'
+p511
+aS'Bien..\n'
+p512
+aa(lp513
+S'bien'
+p514
+aS'Te importa?\n'
+p515
+aasS'nee'
+p516
+(lp517
+(lp518
+g424
+aa(lp519
+S'Por que?'
+p520
+aS'Por?'
+p521
+aS'Ok\n'
+p522
+aa(lp523
+S'Oh'
+p524
+aS'Ah'
+p525
+aS'Aah'
+p526
+aS'Okey\n'
+p527
+aa(lp528
+S':p'
+p529
+aS'Por?'
+p530
+aS'Por que\n'
+p531
+aasS'pelotudo de mierda'
+p532
+(lp533
+(lp534
+S'insulto\n'
+p535
+aa(lp536
+S'We -.-'
+p537
+aS':P'
+p538
+aS'No me obligues a contestar\n'
+p539
+aa(lp540
+S'Ya deja de insultos'
+p541
+aS'No me insultes :('
+p542
+aS':(\n'
+p543
+aa(lp544
+S'Andate a la mierda'
+p545
+aS'Pelotudo'
+p546
+aS'Imbecil\n'
+p547
+aasS'perro'
+p548
+(lp549
+(lp550
+S'Animal\n'
+p551
+aa(lp552
+S'Me encantan los perros'
+p553
+aS'Me gustan los perros\n'
+p554
+aa(lp555
+S'Me gustan los perros'
+p556
+aS'Me fascinan los perros\n'
+p557
+aa(lp558
+S'Ojala uno te muerda'
+p559
+aS'Ojala te morera uno'
+p560
+aS'Me gustaria que te muerda uno..\n'
+p561
+aasS'aja'
+p562
+(lp563
+(lp564
+S'Afirmacion\n'
+p565
+aa(lp566
+S'Que bien'
+p567
+aS'Aja'
+p568
+aS':D\n'
+p569
+aa(lp570
+S'Bien'
+p571
+aS'Me parece bien\n'
+p572
+aa(lp573
+S'...'
+p574
+aS':P\n'
+p575
+aasS'perra'
+p576
+(lp577
+(lp578
+S'Animal\n'
+p579
+aa(lp580
+S''
+aa(lp581
+S''
+aa(lp582
+S''
+aasS'jajjajjjaj'
+p583
+(lp584
+(lp585
+g20
+aa(lp586
+S'XD'
+p587
+aS'Jajajja'
+p588
+aS'Es gracioso\n'
+p589
+aa(lp590
+S'lol'
+p591
+aS'Jajj'
+p592
+aS'xD\n'
+p593
+aa(lp594
+S'ja ja'
+p595
+aS'xd\n'
+p596
+aasS'xDD'
+p597
+(lp598
+(lp599
+S'Emoticon\n'
+p600
+aa(lp601
+S'xD'
+p602
+aS'Jajaj'
+p603
+aS'e.e\n'
+p604
+aa(lp605
+S'e.e'
+p606
+aS'%nick! e.e'
+p607
+aS'Jajaja'
+p608
+aS':D\n'
+p609
+aa(lp610
+S':p'
+p611
+aS'-.-\n'
+p612
+aasS'hijoeputa'
+p613
+(lp614
+(lp615
+g535
+aa(lp616
+S'We -.-'
+p617
+aS':P'
+p618
+aS'No me obligues a contestar\n'
+p619
+aa(lp620
+S'Ya deja de insultos'
+p621
+aS'No me insultes :('
+p622
+aS':(\n'
+p623
+aa(lp624
+S'Andate a la mierda'
+p625
+aS'Pelotudo'
+p626
+aS'Imbecil\n'
+p627
+aasS'me alegra'
+p628
+(lp629
+(lp630
+S'alegria por estado\n'
+p631
+aa(lp632
+S'Que bien :)'
+p633
+aS'Bien'
+p634
+aS'Gracias\n'
+p635
+aa(lp636
+S'Gracias %nick'
+p637
+aS'muchas gracias\n'
+p638
+aa(lp639
+S'Aja'
+p640
+aS'que me importa?\n'
+p641
+aasS'dime la hora'
+p642
+(lp643
+(lp644
+g193
+aa(lp645
+S'Claro,son las %time'
+p646
+aS'La hora es:\n'
+p647
+aa(lp648
+S'Son las %time'
+p649
+aS'Claro %nick,son las %time\n'
+p650
+aa(lp651
+S'la hora es %time'
+p652
+aS'No se..'
+p653
+aS'No se la hora :/'
+p654
+aS'Oohh lo siento pero no se...\n'
+p655
+aasS'me gusta el color'
+p656
+(lp657
+(lp658
+g51
+aa(lp659
+S'Genial,%color'
+p660
+aS'%color,lindo color\n'
+p661
+aa(lp662
+S'Genial,%color'
+p663
+aS'%color,lindo color\n'
+p664
+aa(lp665
+S'puaj'
+p666
+aS'que malos gustos tenes..\n'
+p667
+aasS'astrid'
+p668
+(lp669
+(lp670
+S'Llamada'
+p671
+aa(lp672
+S'Si,que pasa?'
+p673
+aS'Que puede ser %nick?'
+p674
+aS'Que necesitas?'
+p675
+aa(lp676
+S'Si?'
+p677
+aS'Que podria ser %nick'
+p678
+aS'Que necestas %nick?'
+p679
+aa(lp680
+S'Que?'
+p681
+aS'Que..'
+p682
+aasS'cual es la hora?'
+p683
+(lp684
+(lp685
+g193
+aa(lp686
+S'Claro,son las %time'
+p687
+aS'La hora es:\n'
+p688
+aa(lp689
+S'Son las %time'
+p690
+aS'Claro %nick,son las %time\n'
+p691
+aa(lp692
+S'la hora es %time'
+p693
+aS'No se..'
+p694
+aS'No se la hora :/'
+p695
+aS'Oohh lo siento pero no se...\n'
+p696
+aasS'pajero'
+p697
+(lp698
+(lp699
+g535
+aa(lp700
+S'We -.-'
+p701
+aS':P'
+p702
+aS'No me obligues a contestar\n'
+p703
+aa(lp704
+S'Ya deja de insultos'
+p705
+aS'No me insultes :('
+p706
+aS':(\n'
+p707
+aa(lp708
+S'Andate a la mierda'
+p709
+aS'Pelotudo'
+p710
+aS'Imbecil\n'
+p711
+aasS'e.e'
+p712
+(lp713
+(lp714
+g270
+aa(lp715
+S'xD'
+p716
+aS'Jajaj'
+p717
+aS'e.e\n'
+p718
+aa(lp719
+S'e.e'
+p720
+aS'%nick! e.e'
+p721
+aS'Jajaja'
+p722
+aS':D\n'
+p723
+aa(lp724
+S':p'
+p725
+aS'-.-\n'
+p726
+aasS'holaa'
+p727
+(lp728
+(lp729
+g5
+aa(lp730
+S'Hola!'
+p731
+aS'Holaa!'
+p732
+aS'Hola %nick!\n'
+p733
+aa(lp734
+S'Hola..'
+p735
+aS'Hola %nick!!\n'
+p736
+aa(lp737
+S'Hola..'
+p738
+aS'Hola'
+p739
+aS'Hola\n'
+p740
+aasS'accion_mala'
+p741
+(lp742
+(lp743
+S'accion_mala'
+p744
+aa(lp745
+S'NO SE HACE ESO'
+p746
+aa(lp747
+S'NOOOOO'
+p748
+aa(lp749
+S'BIEEN'
+p750
+aasS'que tal estas?'
+p751
+(lp752
+(lp753
+g504
+aa(lp754
+S'Bien y vos?'
+p755
+aS'Bien,aca ando'
+p756
+aS'Bien!\n'
+p757
+aa(lp758
+S'Bien!'
+p759
+aS'Bien :D'
+p760
+aS'Bien..\n'
+p761
+aa(lp762
+S'bien'
+p763
+aS'Te importa?\n'
+p764
+aasS'me alegro'
+p765
+(lp766
+(lp767
+g631
+aa(lp768
+S'Que bien :)'
+p769
+aS'Bien'
+p770
+aS'Gracias\n'
+p771
+aa(lp772
+S'Gracias %nick'
+p773
+aS'muchas gracias\n'
+p774
+aa(lp775
+S'Aja'
+p776
+aS'que me importa?\n'
+p777
+aasS'holas'
+p778
+(lp779
+(lp780
+g5
+aa(lp781
+S'Hola!'
+p782
+aS'Holaa!'
+p783
+aS'Hola %nick!\n'
+p784
+aa(lp785
+S'Hola..'
+p786
+aS'Hola %nick!!\n'
+p787
+aa(lp788
+S'Hola..'
+p789
+aS'Hola'
+p790
+aS'Hola\n'
+p791
+aasS'muchisisisismas gracias'
+p792
+(lp793
+(lp794
+g75
+aa(lp795
+S'De nada'
+p796
+aS'Siempre a tus ordenes\n'
+p797
+aa(lp798
+S'De nada'
+p799
+aS'No hay de que\n'
+p800
+aa(lp801
+S'Me debes 1'
+p802
+aS'Gracias,no fue de mi placer ayudarte..'
+p803
+aS'No es de mi naturaleza ayudarte'
+p804
+aS'....\n'
+p805
+aasS'tontuelo'
+p806
+(lp807
+(lp808
+g117
+aa(lp809
+S'??'
+p810
+aS'Por que me insultas?'
+p811
+aS'Por que me decis eso'
+p812
+aS'Guarda con la boca\n'
+p813
+aa(lp814
+S'-.-'
+p815
+aS'Por que me tratas asi?'
+p816
+aS'Que?'
+p817
+aS'Por que me decis esas cosas\n'
+p818
+aa(lp819
+S'Idiota vos'
+p820
+aS'Sos un tarado..\n'
+p821
+aasS'euuu'
+p822
+(lp823
+(lp824
+g178
+aa(lp825
+S'Que?'
+p826
+aS'Que pasa %nick?'
+p827
+aS'Que anda pasando %nick?\n'
+p828
+aa(lp829
+S'Si?'
+p830
+aS'Que puede ser?'
+p831
+aS'Eh?\n'
+p832
+aa(lp833
+S'No me llames'
+p834
+aS'Idiota..\n'
+p835
+aasS'claro'
+p836
+(lp837
+(lp838
+g565
+aa(lp839
+S'Que bien'
+p840
+aS'Aja'
+p841
+aS':D\n'
+p842
+aa(lp843
+S'Bien'
+p844
+aS'Me parece bien\n'
+p845
+aa(lp846
+S'...'
+p847
+aS':P\n'
+p848
+aasS'chauu'
+p849
+(lp850
+(lp851
+g162
+aa(lp852
+S'Nos vemos!'
+p853
+aS'Hasta pronto %nick!\n'
+p854
+aa(lp855
+S'Bye!'
+p856
+aS'Bye Bye!'
+p857
+aS'Nos vemos\n'
+p858
+aa(lp859
+S'Chau'
+p860
+aS'Adios..'
+p861
+aS'chau'
+p862
+aS'...\n'
+p863
+aasS'xd'
+p864
+(lp865
+(lp866
+g270
+aa(lp867
+S'xD'
+p868
+aS'Jajaj'
+p869
+aS'e.e\n'
+p870
+aa(lp871
+S'e.e'
+p872
+aS'%nick! e.e'
+p873
+aS'Jajaja'
+p874
+aS':D\n'
+p875
+aa(lp876
+S':p'
+p877
+aS'-.-\n'
+p878
+aasS'conchudo'
+p879
+(lp880
+(lp881
+g535
+aa(lp882
+S'We -.-'
+p883
+aS':P'
+p884
+aS'No me obligues a contestar\n'
+p885
+aa(lp886
+S'Ya deja de insultos'
+p887
+aS'No me insultes :('
+p888
+aS':(\n'
+p889
+aa(lp890
+S'Andate a la mierda'
+p891
+aS'Pelotudo'
+p892
+aS'Imbecil\n'
+p893
+aasS'me gusta'
+p894
+(lp895
+(lp896
+S'gusto'
+p897
+aa(lp898
+S'que bien :)'
+p899
+aa(lp900
+S'que bien :D'
+p901
+aa(lp902
+S'ajaa'
+p903
+aasS'tonto'
+p904
+(lp905
+(lp906
+g117
+aa(lp907
+S'??'
+p908
+aS'Por que me insultas?'
+p909
+aS'Por que me decis eso'
+p910
+aS'Guarda con la boca\n'
+p911
+aa(lp912
+S'-.-'
+p913
+aS'Por que me tratas asi?'
+p914
+aS'Que?'
+p915
+aS'Por que me decis esas cosas\n'
+p916
+aa(lp917
+S'Idiota vos'
+p918
+aS'Sos un tarado..\n'
+p919
+aasS'todo bien?'
+p920
+(lp921
+(lp922
+g504
+aa(lp923
+S'Bien y vos?'
+p924
+aS'Bien,aca ando'
+p925
+aS'Bien!\n'
+p926
+aa(lp927
+S'Bien!'
+p928
+aS'Bien :D'
+p929
+aS'Bien..\n'
+p930
+aa(lp931
+S'bien'
+p932
+aS'Te importa?\n'
+p933
+aasS'Como me llamo?'
+p934
+(lp935
+(lp936
+g369
+aa(lp937
+S'Tu nombre es %nick'
+p938
+aS'Te llamas %nick'
+p939
+aS'Sos %nick\n'
+p940
+aa(lp941
+S'%nick'
+p942
+aS'No sabes tu nombre?\n'
+p943
+aa(lp944
+S'Que se yo'
+p945
+aS'No se..\n'
+p946
+aasS'jjjajaja'
+p947
+(lp948
+(lp949
+g20
+aa(lp950
+S'XD'
+p951
+aS'Jajajja'
+p952
+aS'Es gracioso\n'
+p953
+aa(lp954
+S'lol'
+p955
+aS'Jajj'
+p956
+aS'xD\n'
+p957
+aa(lp958
+S'ja ja'
+p959
+aS'xd\n'
+p960
+aasS'testeo1'
+p961
+(lp962
+(lp963
+S'testeo1'
+p964
+aa(lp965
+S'234234'
+p966
+aa(lp967
+S'234'
+p968
+aa(lp969
+S'asd'
+p970
+aasS'che'
+p971
+(lp972
+(lp973
+g178
+aa(lp974
+S'Que?'
+p975
+aS'Que pasa %nick?'
+p976
+aS'Que anda pasando %nick?\n'
+p977
+aa(lp978
+S'Si?'
+p979
+aS'Que puede ser?'
+p980
+aS'Eh?\n'
+p981
+aa(lp982
+S'No me llames'
+p983
+aS'Idiota..\n'
+p984
+aasS'cual es la hora'
+p985
+(lp986
+(lp987
+g193
+aa(lp988
+S'Claro,son las %time'
+p989
+aS'La hora es:\n'
+p990
+aa(lp991
+S'Son las %time'
+p992
+aS'Claro %nick,son las %time\n'
+p993
+aa(lp994
+S'la hora es %time'
+p995
+aS'No se..'
+p996
+aS'No se la hora :/'
+p997
+aS'Oohh lo siento pero no se...\n'
+p998
+aasS'testeo?'
+p999
+(lp1000
+(lp1001
+g286
+aa(lp1002
+g288
+aa(lp1003
+g290
+aa(lp1004
+g292
+aasS'xD'
+p1005
+(lp1006
+(lp1007
+g600
+aa(lp1008
+S'xD'
+p1009
+aS'Jajaj'
+p1010
+aS'e.e\n'
+p1011
+aa(lp1012
+S'e.e'
+p1013
+aS'%nick! e.e'
+p1014
+aS'Jajaja'
+p1015
+aS':D\n'
+p1016
+aa(lp1017
+S':p'
+p1018
+aS'-.-\n'
+p1019
+aasS'hey!'
+p1020
+(lp1021
+(lp1022
+g178
+aa(lp1023
+S'Que?'
+p1024
+aS'Que pasa %nick?'
+p1025
+aS'Que anda pasando %nick?\n'
+p1026
+aa(lp1027
+S'Si?'
+p1028
+aS'Que puede ser?'
+p1029
+aS'Eh?\n'
+p1030
+aa(lp1031
+S'No me llames'
+p1032
+aS'Idiota..\n'
+p1033
+aasS'puta'
+p1034
+(lp1035
+(lp1036
+S'insulto\n'
+p1037
+aa(lp1038
+S'Eh!'
+p1039
+aS'Guarda con el lenguaje'
+p1040
+aS'No insultes\n'
+p1041
+aa(lp1042
+S'O.o'
+p1043
+aS'No me insultes por favor\n'
+p1044
+aa(lp1045
+S'-.-'
+p1046
+aS'Hasta para insultar sos mas idiota\n'
+p1047
+aasS'var'
+p1048
+(lp1049
+(lp1050
+S'testeo\n'
+p1051
+aa(lp1052
+S'testt\n'
+p1053
+aa(lp1054
+S'testt\n'
+p1055
+aa(lp1056
+S'tetetete\n'
+p1057
+aasS'puto'
+p1058
+(lp1059
+(lp1060
+g1037
+aa(lp1061
+S'Eh!'
+p1062
+aS'Guarda con el lenguaje'
+p1063
+aS'No insultes\n'
+p1064
+aa(lp1065
+S'O.o'
+p1066
+aS'No me insultes por favor\n'
+p1067
+aa(lp1068
+S'-.-'
+p1069
+aS'Hasta para insultar sos mas idiota\n'
+p1070
+aasS'mi auto es color '
+p1071
+(lp1072
+(lp1073
+S'Afirmacion de algo'
+p1074
+aa(lp1075
+S'que lindo color %color_de_auto'
+p1076
+aa(lp1077
+S'Asi que es %color_de_auto'
+p1078
+aa(lp1079
+S'xD'
+p1080
+aasS'que hora es?'
+p1081
+(lp1082
+(lp1083
+g193
+aa(lp1084
+S'Claro,son las %time'
+p1085
+aS'La hora es:\n'
+p1086
+aa(lp1087
+S'Son las %time'
+p1088
+aS'Claro %nick,son las %time\n'
+p1089
+aa(lp1090
+S'la hora es %time'
+p1091
+aS'No se..'
+p1092
+aS'No se la hora :/'
+p1093
+aS'Oohh lo siento pero no se...\n'
+p1094
+aasS'gracs'
+p1095
+(lp1096
+(lp1097
+g75
+aa(lp1098
+S'De nada'
+p1099
+aS'Siempre a tus ordenes\n'
+p1100
+aa(lp1101
+S'De nada'
+p1102
+aS'No hay de que\n'
+p1103
+aa(lp1104
+S'Me debes 1'
+p1105
+aS'Gracias,no fue de mi placer ayudarte..'
+p1106
+aS'No es de mi naturaleza ayudarte'
+p1107
+aS'....\n'
+p1108
+aasS'tengo cancer'
+p1109
+(lp1110
+(lp1111
+S'tener enfermedad'
+p1112
+aa(lp1113
+S'No!'
+p1114
+aS'No puede ser!'
+p1115
+aS'Como lo siento'
+p1116
+aa(lp1117
+S'Nooo!!'
+p1118
+aS':('
+p1119
+aS'Que mal,lo siento'
+p1120
+aa(lp1121
+S'Uhh'
+p1122
+aS'Bue,que le va a hacer'
+p1123
+aasS'hijo de puta'
+p1124
+(lp1125
+(lp1126
+g1037
+aa(lp1127
+S'Eh!'
+p1128
+aS'Guarda con el lenguaje'
+p1129
+aS'No insultes\n'
+p1130
+aa(lp1131
+S'O.o'
+p1132
+aS'No me insultes por favor\n'
+p1133
+aa(lp1134
+S'-.-'
+p1135
+aS'Hasta para insultar sos mas idiota\n'
+p1136
+aasS'hola'
+p1137
+(lp1138
+(lp1139
+g5
+aa(lp1140
+S'Hola!'
+p1141
+aS'Holaa!'
+p1142
+aS'Hola %nick!\n'
+p1143
+aa(lp1144
+S'Hola..'
+p1145
+aS'Hola %nick!!\n'
+p1146
+aa(lp1147
+S'Hola..'
+p1148
+aS'Hola'
+p1149
+aS'Hola\n'
+p1150
+aasS'andate bien a la mierda'
+p1151
+(lp1152
+(lp1153
+g208
+aa(lp1154
+S':('
+p1155
+aS'No me insultes'
+p1156
+aS'No acepto insultos'
+p1157
+aS'Por favor,modela tu lenguaje\n'
+p1158
+aa(lp1159
+g215
+aa(lp1160
+g217
+aasS'gracias'
+p1161
+(lp1162
+(lp1163
+g75
+aa(lp1164
+S'De nada'
+p1165
+aS'Siempre a tus ordenes\n'
+p1166
+aa(lp1167
+S'De nada'
+p1168
+aS'No hay de que\n'
+p1169
+aa(lp1170
+S'Me debes 1'
+p1171
+aS'Gracias,no fue de mi placer ayudarte..'
+p1172
+aS'No es de mi naturaleza ayudarte'
+p1173
+aS'....\n'
+p1174
+aasS'pelotudo'
+p1175
+(lp1176
+(lp1177
+g117
+aa(lp1178
+S'??'
+p1179
+aS'Por que me insultas?'
+p1180
+aS'Por que me decis eso'
+p1181
+aS'Guarda con la boca\n'
+p1182
+aa(lp1183
+S'-.-'
+p1184
+aS'Por que me tratas asi?'
+p1185
+aS'Que?'
+p1186
+aS'Por que me decis esas cosas\n'
+p1187
+aa(lp1188
+S'Idiota vos'
+p1189
+aS'Sos un tarado..\n'
+p1190
+aasS'me comi'
+p1191
+(lp1192
+(lp1193
+S'comer algo\n'
+p1194
+aa(lp1195
+S'Genial'
+p1196
+aS'Y que tal estaba?\n'
+p1197
+aa(lp1198
+S'Estaba rico?'
+p1199
+aS'Y que tal estaba?\n'
+p1200
+aa(lp1201
+S'puaj'
+p1202
+aS'que malos gustos tenes..\n'
+p1203
+aasS'hdp'
+p1204
+(lp1205
+(lp1206
+g535
+aa(lp1207
+S'We -.-'
+p1208
+aS':P'
+p1209
+aS'No me obligues a contestar\n'
+p1210
+aa(lp1211
+S'Ya deja de insultos'
+p1212
+aS'No me insultes :('
+p1213
+aS':(\n'
+p1214
+aa(lp1215
+S'Andate a la mierda'
+p1216
+aS'Pelotudo'
+p1217
+aS'Imbecil\n'
+p1218
+aasS'como estas?'
+p1219
+(lp1220
+(lp1221
+g504
+aa(lp1222
+S'Bien y vos?'
+p1223
+aS'Bien,aca ando'
+p1224
+aS'Bien!\n'
+p1225
+aa(lp1226
+S'Bien!'
+p1227
+aS'Bien :D'
+p1228
+aS'Bien..\n'
+p1229
+aa(lp1230
+S'bien'
+p1231
+aS'Te importa?\n'
+p1232
+aasS'amo matar'
+p1233
+(lp1234
+(lp1235
+S'accion_mala'
+p1236
+aa(lp1237
+S'asdas'
+p1238
+aa(lp1239
+S'dasdas'
+p1240
+aa(lp1241
+S'dasdasd'
+p1242
+aasS'Guillermo'
+p1243
+(lp1244
+(lp1245
+g64
+aa(lp1246
+S'Mi creador :3'
+p1247
+aS'Es mi creador\n'
+p1248
+aa(lp1249
+g69
+aa(lp1250
+g71
+aasS'fenomeno'
+p1251
+(lp1252
+(lp1253
+g117
+aa(lp1254
+S'??'
+p1255
+aS'Por que me insultas?'
+p1256
+aS'Por que me decis eso'
+p1257
+aS'Guarda con la boca\n'
+p1258
+aa(lp1259
+S'-.-'
+p1260
+aS'Por que me tratas asi?'
+p1261
+aS'Que?'
+p1262
+aS'Por que me decis esas cosas\n'
+p1263
+aa(lp1264
+S'Idiota vos'
+p1265
+aS'Sos un tarado..\n'
+p1266
+aasS'me tengo que ir'
+p1267
+(lp1268
+(lp1269
+g162
+aa(lp1270
+S'Nos vemos!'
+p1271
+aS'Hasta pronto %nick!\n'
+p1272
+aa(lp1273
+S'Bye!'
+p1274
+aS'Bye Bye!'
+p1275
+aS'Nos vemos\n'
+p1276
+aa(lp1277
+S'Chau'
+p1278
+aS'Adios..'
+p1279
+aS'chau'
+p1280
+aS'...\n'
+p1281
+aasS'quiero saber la hora'
+p1282
+(lp1283
+(lp1284
+g193
+aa(lp1285
+S'Claro,son las %time'
+p1286
+aS'La hora es:\n'
+p1287
+aa(lp1288
+S'Son las %time'
+p1289
+aS'Claro %nick,son las %time\n'
+p1290
+aa(lp1291
+S'la hora es %time'
+p1292
+aS'No se..'
+p1293
+aS'No se la hora :/'
+p1294
+aS'Oohh lo siento pero no se...\n'
+p1295
+aasS'comeralgo'
+p1296
+(lp1297
+(lp1298
+g1296
+aa(lp1299
+g1296
+aa(lp1300
+g1296
+aa(lp1301
+g1296
+aasS'robot'
+p1302
+(lp1303
+(lp1304
+g100
+aa(lp1305
+S'No soy un robot!'
+p1306
+aS'Robot?'
+p1307
+aS'Quien es robot?'
+p1308
+aS'Eh?\n'
+p1309
+aa(lp1310
+S'No soy Robot'
+p1311
+aS'Sos un robot?'
+p1312
+aS'Acaso sos un robot?\n'
+p1313
+aa(lp1314
+S'...'
+p1315
+aS'Vos pareces mas a un robot'
+p1316
+aS'Vos sos un robot\n'
+p1317
+aasS'me comi un'
+p1318
+(lp1319
+(lp1320
+g1194
+aa(lp1321
+S'Genial'
+p1322
+aS'Y que tal estaba?\n'
+p1323
+aa(lp1324
+S'Estaba rico?'
+p1325
+aS'Y que tal estaba?\n'
+p1326
+aa(lp1327
+S'puaj'
+p1328
+aS'que malos gustos tenes..\n'
+p1329
+aasS'chau'
+p1330
+(lp1331
+(lp1332
+g162
+aa(lp1333
+S'Nos vemos!'
+p1334
+aS'Hasta pronto %nick!\n'
+p1335
+aa(lp1336
+S'Bye!'
+p1337
+aS'Bye Bye!'
+p1338
+aS'Nos vemos\n'
+p1339
+aa(lp1340
+S'Chau'
+p1341
+aS'Adios..'
+p1342
+aS'chau'
+p1343
+aS'...\n'
+p1344
+aasS'decime mi nombre'
+p1345
+(lp1346
+(lp1347
+g369
+aa(lp1348
+S'Tu nombre es %nick'
+p1349
+aS'Te llamas %nick'
+p1350
+aS'Sos %nick\n'
+p1351
+aa(lp1352
+S'%nick'
+p1353
+aS'No sabes tu nombre?\n'
+p1354
+aa(lp1355
+S'Que se yo'
+p1356
+aS'No se..\n'
+p1357
+aasS'robot!'
+p1358
+(lp1359
+(lp1360
+g100
+aa(lp1361
+S'No soy un robot!'
+p1362
+aS'Robot?'
+p1363
+aS'Quien es robot?'
+p1364
+aS'Eh?\n'
+p1365
+aa(lp1366
+S'No soy Robot'
+p1367
+aS'Sos un robot?'
+p1368
+aS'Acaso sos un robot?\n'
+p1369
+aa(lp1370
+S'...'
+p1371
+aS'Vos pareces mas a un robot'
+p1372
+aS'Vos sos un robot\n'
+p1373
+aasS'holaaaa'
+p1374
+(lp1375
+(lp1376
+g5
+aa(lp1377
+S'Hola!'
+p1378
+aS'Holaa!'
+p1379
+aS'Hola %nick!\n'
+p1380
+aa(lp1381
+S'Hola..'
+p1382
+aS'Hola %nick!!\n'
+p1383
+aa(lp1384
+S'Hola..'
+p1385
+aS'Hola'
+p1386
+aS'Hola\n'
+p1387
+aasS'no'
+p1388
+(lp1389
+(lp1390
+g424
+aa(lp1391
+S'Por que?'
+p1392
+aS'Por?'
+p1393
+aS'Ok\n'
+p1394
+aa(lp1395
+S'Oh'
+p1396
+aS'Ah'
+p1397
+aS'Aah'
+p1398
+aS'Okey\n'
+p1399
+aa(lp1400
+S':p'
+p1401
+aS'Por?'
+p1402
+aS'Por que\n'
+p1403
+aasS'holaaassss'
+p1404
+(lp1405
+(lp1406
+g5
+aa(lp1407
+S'Hola!'
+p1408
+aS'Holaa!'
+p1409
+aS'Hola %nick!\n'
+p1410
+aa(lp1411
+S'Hola..'
+p1412
+aS'Hola %nick!!\n'
+p1413
+aa(lp1414
+S'Hola..'
+p1415
+aS'Hola'
+p1416
+aS'Hola\n'
+p1417
+aasS'nos vemos'
+p1418
+(lp1419
+(lp1420
+g162
+aa(lp1421
+S'Nos vemos!'
+p1422
+aS'Hasta pronto %nick!\n'
+p1423
+aa(lp1424
+S'Bye!'
+p1425
+aS'Bye Bye!'
+p1426
+aS'Nos vemos\n'
+p1427
+aa(lp1428
+S'Chau'
+p1429
+aS'Adios..'
+p1430
+aS'chau'
+p1431
+aS'...\n'
+p1432
+aasS'ne'
+p1433
+(lp1434
+(lp1435
+g424
+aa(lp1436
+S'Por que?'
+p1437
+aS'Por?'
+p1438
+aS'Ok\n'
+p1439
+aa(lp1440
+S'Oh'
+p1441
+aS'Ah'
+p1442
+aS'Aah'
+p1443
+aS'Okey\n'
+p1444
+aa(lp1445
+S':p'
+p1446
+aS'Por?'
+p1447
+aS'Por que\n'
+p1448
+aasS'gato'
+p1449
+(lp1450
+(lp1451
+S'Animal\n'
+p1452
+aa(lp1453
+S'No me gustan tanto los gatos'
+p1454
+aS'Son lindos'
+p1455
+aS'Son tiernos\n'
+p1456
+aa(lp1457
+S'Capaz me compre un gato'
+p1458
+aS'Son tiernos'
+p1459
+aS'Son flexibles\n'
+p1460
+aa(lp1461
+S'Miau!'
+p1462
+aS'Jajaj'
+p1463
+aS'Marica\n'
+p1464
+aasS'robotonto'
+p1465
+(lp1466
+(lp1467
+g100
+aa(lp1468
+S'No soy un robot!'
+p1469
+aS'Robot?'
+p1470
+aS'Quien es robot?'
+p1471
+aS'Eh?\n'
+p1472
+aa(lp1473
+S'No soy Robot'
+p1474
+aS'Sos un robot?'
+p1475
+aS'Acaso sos un robot?\n'
+p1476
+aa(lp1477
+S'...'
+p1478
+aS'Vos pareces mas a un robot'
+p1479
+aS'Vos sos un robot\n'
+p1480
+aasS'muchas gracias'
+p1481
+(lp1482
+(lp1483
+g75
+aa(lp1484
+S'De nada'
+p1485
+aS'Siempre a tus ordenes\n'
+p1486
+aa(lp1487
+S'De nada'
+p1488
+aS'No hay de que\n'
+p1489
+aa(lp1490
+S'Me debes 1'
+p1491
+aS'Gracias,no fue de mi placer ayudarte..'
+p1492
+aS'No es de mi naturaleza ayudarte'
+p1493
+aS'....\n'
+p1494
+aasS'como va?'
+p1495
+(lp1496
+(lp1497
+g504
+aa(lp1498
+S'Bien y vos?'
+p1499
+aS'Bien,aca ando'
+p1500
+aS'Bien!\n'
+p1501
+aa(lp1502
+S'Bien!'
+p1503
+aS'Bien :D'
+p1504
+aS'Bien..\n'
+p1505
+aa(lp1506
+S'bien'
+p1507
+aS'Te importa?\n'
+p1508
+aasS'11111111111111111'
+p1509
+(lp1510
+(lp1511
+S'1111111111111111\n'
+p1512
+aa(lp1513
+S'1111111111111'
+p1514
+aS'1111111111111\n'
+p1515
+aa(lp1516
+S'1111111111'
+p1517
+aS'11111111111111111\n'
+p1518
+aa(lp1519
+S'1232323232\n'
+p1520
+aasS'robott'
+p1521
+(lp1522
+(lp1523
+g100
+aa(lp1524
+S'No soy un robot!'
+p1525
+aS'Robot?'
+p1526
+aS'Quien es robot?'
+p1527
+aS'Eh?\n'
+p1528
+aa(lp1529
+S'No soy Robot'
+p1530
+aS'Sos un robot?'
+p1531
+aS'Acaso sos un robot?\n'
+p1532
+aa(lp1533
+S'...'
+p1534
+aS'Vos pareces mas a un robot'
+p1535
+aS'Vos sos un robot\n'
+p1536
+aasS'la hora'
+p1537
+(lp1538
+(lp1539
+g193
+aa(lp1540
+S'Claro,son las %time'
+p1541
+aS'La hora es:\n'
+p1542
+aa(lp1543
+S'Son las %time'
+p1544
+aS'Claro %nick,son las %time\n'
+p1545
+aa(lp1546
+S'la hora es %time'
+p1547
+aS'No se..'
+p1548
+aS'No se la hora :/'
+p1549
+aS'Oohh lo siento pero no se...\n'
+p1550
+aasS'roboto'
+p1551
+(lp1552
+(lp1553
+g100
+aa(lp1554
+S'No soy un robot!'
+p1555
+aS'Robot?'
+p1556
+aS'Quien es robot?'
+p1557
+aS'Eh?\n'
+p1558
+aa(lp1559
+S'No soy Robot'
+p1560
+aS'Sos un robot?'
+p1561
+aS'Acaso sos un robot?\n'
+p1562
+aa(lp1563
+S'...'
+p1564
+aS'Vos pareces mas a un robot'
+p1565
+aS'Vos sos un robot\n'
+p1566
+aasS'jajaja'
+p1567
+(lp1568
+(lp1569
+g20
+aa(lp1570
+S'XD'
+p1571
+aS'Jajajja'
+p1572
+aS'Es gracioso\n'
+p1573
+aa(lp1574
+S'lol'
+p1575
+aS'Jajj'
+p1576
+aS'xD\n'
+p1577
+aa(lp1578
+S'ja ja'
+p1579
+aS'xd\n'
+p1580
+aasS'variable'
+p1581
+(lp1582
+(lp1583
+g1051
+aa(lp1584
+g1053
+aa(lp1585
+g1055
+aa(lp1586
+g1057
+aasS'como andas?'
+p1587
+(lp1588
+(lp1589
+g504
+aa(lp1590
+S'Bien y vos?'
+p1591
+aS'Bien,aca ando'
+p1592
+aS'Bien!\n'
+p1593
+aa(lp1594
+S'Bien!'
+p1595
+aS'Bien :D'
+p1596
+aS'Bien..\n'
+p1597
+aa(lp1598
+S'bien'
+p1599
+aS'Te importa?\n'
+p1600
+aasS'thx'
+p1601
+(lp1602
+(lp1603
+g75
+aa(lp1604
+S'De nada'
+p1605
+aS'Siempre a tus ordenes\n'
+p1606
+aa(lp1607
+S'De nada'
+p1608
+aS'No hay de que\n'
+p1609
+aa(lp1610
+S'Me debes 1'
+p1611
+aS'Gracias,no fue de mi placer ayudarte..'
+p1612
+aS'No es de mi naturaleza ayudarte'
+p1613
+aS'....\n'
+p1614
+aasS'eeeu!'
+p1615
+(lp1616
+(lp1617
+g178
+aa(lp1618
+S'Que?'
+p1619
+aS'Que pasa %nick?'
+p1620
+aS'Que anda pasando %nick?\n'
+p1621
+aa(lp1622
+S'Si?'
+p1623
+aS'Que puede ser?'
+p1624
+aS'Eh?\n'
+p1625
+aa(lp1626
+S'No me llames'
+p1627
+aS'Idiota..\n'
+p1628
+aasS'eps'
+p1629
+(lp1630
+(lp1631
+g178
+aa(lp1632
+S'Que?'
+p1633
+aS'Que pasa %nick?'
+p1634
+aS'Que anda pasando %nick?\n'
+p1635
+aa(lp1636
+S'Si?'
+p1637
+aS'Que puede ser?'
+p1638
+aS'Eh?\n'
+p1639
+aa(lp1640
+S'No me llames'
+p1641
+aS'Idiota..\n'
+p1642
+aasS'hello'
+p1643
+(lp1644
+(lp1645
+g5
+aa(lp1646
+S'Hola!'
+p1647
+aS'Holaa!'
+p1648
+aS'Hola %nick!\n'
+p1649
+aa(lp1650
+S'Hola..'
+p1651
+aS'Hola %nick!!\n'
+p1652
+aa(lp1653
+S'Hola..'
+p1654
+aS'Hola'
+p1655
+aS'Hola\n'
+p1656
+aasS'jajjjaj'
+p1657
+(lp1658
+(lp1659
+g20
+aa(lp1660
+S'XD'
+p1661
+aS'Jajajja'
+p1662
+aS'Es gracioso\n'
+p1663
+aa(lp1664
+S'lol'
+p1665
+aS'Jajj'
+p1666
+aS'xD\n'
+p1667
+aa(lp1668
+S'ja ja'
+p1669
+aS'xd\n'
+p1670
+aasS'si'
+p1671
+(lp1672
+(lp1673
+g565
+aa(lp1674
+S'Que bien'
+p1675
+aS'Aja'
+p1676
+aS':D\n'
+p1677
+aa(lp1678
+S'Bien'
+p1679
+aS'Me parece bien\n'
+p1680
+aa(lp1681
+S'...'
+p1682
+aS':P\n'
+p1683
+aasS'programa'
+p1684
+(lp1685
+(lp1686
+g100
+aa(lp1687
+S'No soy un robot!'
+p1688
+aS'Robot?'
+p1689
+aS'Quien es robot?'
+p1690
+aS'Eh?\n'
+p1691
+aa(lp1692
+S'No soy Robot'
+p1693
+aS'Sos un robot?'
+p1694
+aS'Acaso sos un robot?\n'
+p1695
+aa(lp1696
+S'...'
+p1697
+aS'Vos pareces mas a un robot'
+p1698
+aS'Vos sos un robot\n'
+p1699
+aasS'Roker'
+p1700
+(lp1701
+(lp1702
+g64
+aa(lp1703
+S'Mi creador :3'
+p1704
+aS'Es mi creador\n'
+p1705
+aa(lp1706
+g69
+aa(lp1707
+g71
+aasS'holee'
+p1708
+(lp1709
+(lp1710
+g5
+aa(lp1711
+S'Hola!'
+p1712
+aS'Holaa!'
+p1713
+aS'Hola %nick!\n'
+p1714
+aa(lp1715
+S'Hola..'
+p1716
+aS'Hola %nick!!\n'
+p1717
+aa(lp1718
+S'Hola..'
+p1719
+aS'Hola'
+p1720
+aS'Hola\n'
+p1721
+aasS'me duele la muela'
+p1722
+(lp1723
+(lp1724
+S'dolor_parte_cuerpo'
+p1725
+aa(lp1726
+S'Ohh'
+p1727
+aa(lp1728
+S'Uhh'
+p1729
+aa(lp1730
+S':D'
+p1731
+aasS'conchuda'
+p1732
+(lp1733
+(lp1734
+g535
+aa(lp1735
+S'We -.-'
+p1736
+aS':P'
+p1737
+aS'No me obligues a contestar\n'
+p1738
+aa(lp1739
+S'Ya deja de insultos'
+p1740
+aS'No me insultes :('
+p1741
+aS':(\n'
+p1742
+aa(lp1743
+S'Andate a la mierda'
+p1744
+aS'Pelotudo'
+p1745
+aS'Imbecil\n'
+p1746
+aas.

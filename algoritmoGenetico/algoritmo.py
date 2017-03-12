@@ -1,0 +1,1 @@
+## Clase de la logica de algoritmos geneticos ##

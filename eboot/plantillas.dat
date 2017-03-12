@@ -1,0 +1,135 @@
+(dp1
+S'negacion'
+p2
+(lp3
+S'El no era *'
+p4
+aS'Ella no era *'
+p5
+asS'ser'
+p6
+(lp7
+S'Mi * es *'
+p8
+aS'Mi * tiene *'
+p9
+asS'ser_presente'
+p10
+(lp11
+S'La * es *'
+p12
+ag8
+aS'Mi * era *'
+p13
+aS'El * es *'
+p14
+asS'color'
+p15
+(lp16
+S'Mi color favorito es el *'
+p17
+aS'Me gusta el color *'
+p18
+asS'tener'
+p19
+(lp20
+S'Tengo *'
+p21
+aS'Tengo un *'
+p22
+aS'Tengo una *'
+p23
+aS'Tengo muchas *'
+p24
+asS'estar_pasado'
+p25
+(lp26
+S'Estube *'
+p27
+aS'Estaba en mi *'
+p28
+aS'Estube en *'
+p29
+asS'negacion de hecho'
+p30
+(lp31
+S'Pero no hago *'
+p32
+asS'estar_presente'
+p33
+(lp34
+S'Estoy en mi *'
+p35
+aS'Esta en *'
+p36
+asS'gusto'
+p37
+(lp38
+S'Me gusta *'
+p39
+aS'Me gustan *'
+p40
+aS'Me gustan las *'
+p41
+asS'odio'
+p42
+(lp43
+S'Odio *'
+p44
+aS'Odio que *'
+p45
+aS'Odio el *'
+p46
+asS'nick'
+p47
+(lp48
+S'Me llamo *'
+p49
+aS'Mi nombre es *'
+p50
+ag49
+asS'ser_pasado'
+p51
+(lp52
+S'Era *'
+p53
+aS'El era *'
+p54
+aS'Ella era *'
+p55
+aS'Ellos eran *'
+p56
+asS'amar'
+p57
+(lp58
+S'Amo el *'
+p59
+aS'Amo *'
+p60
+aS'Amo * en * el * los *'
+p61
+asS'apodo'
+p62
+(lp63
+S'Me llaman *'
+p64
+aS'Me dicen *'
+p65
+asS'posesion'
+p66
+(lp67
+S'Tengo un *'
+p68
+asS'muerte'
+p69
+(lp70
+S'Mi * murio de * en *'
+p71
+asS'email'
+p72
+(lp73
+S'Mi email es *'
+p74
+aS'Mi correo es *'
+p75
+as.
